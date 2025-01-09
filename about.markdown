@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Uberの配達記録を書いていきます
+UberEatsの配達をして２年です。
+
+ここでは配達での出来事を記録をしていきます。
