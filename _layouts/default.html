@@ -9,8 +9,8 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@Uber79566978061">
     <meta name="twitter:title" content="{{ page.title | default: site.title }}">
-    <meta name="twitter:description" content="{{ page.description | default: site.description }}">
-    <meta name="twitter:image" content="{{ site.url }}/assets/images/uber-card.jpg">
+    <meta name="twitter:description" content="{{ page.twitter_description | default: page.description | default: site.description }}">
+    <meta name="twitter:image" content="{{ page.twitter_image | default: site.twitter_image }}">
     
   </head>
   
