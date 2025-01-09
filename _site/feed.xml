@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-01-09T12:07:27+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Uber Eats Blog</title><subtitle>Uberの配達記録をしていきます</subtitle><entry><title type="html">【UberEats】商品が届かないのは何故か？ 報酬削減が引き起こした連鎖反応</title><link href="http://localhost:4000/jekyll/update/2025/01/09/welcome-to-jekyll.html" rel="alternate" type="text/html" title="【UberEats】商品が届かないのは何故か？ 報酬削減が引き起こした連鎖反応" /><published>2025-01-09T01:27:29+09:00</published><updated>2025-01-09T01:27:29+09:00</updated><id>http://localhost:4000/jekyll/update/2025/01/09/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/01/09/welcome-to-jekyll.html"><![CDATA[<p>こんにちは。東京都内でUberEatsの配達を２年しています。今回2024~2025年に起きた年末年始のUberEatsについてまとめたので書いていこうと思います。よろしければお付き合いのほどよろしくお願いいたします。</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/uber/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/uber/" rel="alternate" type="text/html" /><updated>2025-01-09T13:16:55+09:00</updated><id>http://localhost:4000/uber/feed.xml</id><title type="html">Uber Eats Blog</title><subtitle>UberEatsについて記録したサイト</subtitle><entry><title type="html">【UberEats】商品が届かないのは何故か？ 報酬削減が引き起こした連鎖反応</title><link href="http://localhost:4000/uber/jekyll/update/2025/01/09/welcome-to-jekyll.html" rel="alternate" type="text/html" title="【UberEats】商品が届かないのは何故か？ 報酬削減が引き起こした連鎖反応" /><published>2025-01-09T01:27:29+09:00</published><updated>2025-01-09T01:27:29+09:00</updated><id>http://localhost:4000/uber/jekyll/update/2025/01/09/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/uber/jekyll/update/2025/01/09/welcome-to-jekyll.html"><![CDATA[<p>こんにちは。東京都内でUberEatsの配達を２年しています。今回2024~2025年に起きた年末年始のUberEatsについてまとめたので書いていこうと思います。よろしければお付き合いのほどよろしくお願いいたします。</p>
 
 <p><br /></p>
 
 <p>令和六年の年末から令和七年の年始にかけて、UberEatsは重大な問題に直面しました。</p>
 
-<p>原因は<code class="language-plaintext highlighter-rouge">配達員に支払う報酬を著しく低下させたこと</code>です。</p>
+<p><code class="language-plaintext highlighter-rouge">原因は配達員に支払う報酬を著しく低下させたこと</code>です。</p>
 
 <p>これにより注文した商品が届かない等サービス全体に混乱が生じました。その影響と結果について詳しく見ていきます。</p>
 
@@ -124,7 +124,7 @@
 
 <p><br /></p>
 
-<h4>短期的利益追求の代償</h4>
+<h3>短期的利益追求の代償</h3>
 
 <p>UberEatsは利益を上げるために配達員報酬を削減しましたが、この方針が裏目に出た結果、次のような悪循環を招きました</p>
 
