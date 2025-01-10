@@ -3,7 +3,7 @@ layout: post
 title:  "【UberEats】商品が届かないのは何故か？ 報酬削減が引き起こした連鎖反応"
 description: "UberEatsの商品が届かない問題の背景を探る。"
 twitter_description: "UberEatsの報酬削減によるドライバー不足が問題を引き起こしている。"
-twitter_image: "{{ site.url }}/assets/images/uber-bag.jpg"
+twitter_image: "{{ site.url }}/assets/images/uber-card.jpg"
 date:   2025-01-09 01:27:29 +0900
 categories: jekyll update
 ---
