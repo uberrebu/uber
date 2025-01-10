@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  【UberEats】商品が届かないのは何故か？ 報酬削減が引き起こした連鎖反応
-description: "【UberEats】商品が届かないのは何故か？ 報酬削減が引き起こした連鎖反応"
-twitter_description: "【UberEats】商品が届かないのは何故か？ 報酬削減が引き起こした連鎖反応"
+title:  "【UberEats】商品が届かないのは何故か？ 報酬削減が引き起こした連鎖反応"
+description: "UberEatsの商品が届かない問題の背景を探る。"
+twitter_description: "UberEatsの報酬削減によるドライバー不足が問題を引き起こしている。"
+twitter_image: "{{ site.url }}/assets/images/uber-bag.jpg"
 date:   2025-01-09 01:27:29 +0900
 categories: jekyll update
-twitter_image: "{{ site.url }}/assets/images/uber-bag.jpg"
 ---
+
 こんにちは。現在東京都内でUberEatsの配達を２年になります。今回2024~2025年に起きた年末年始のUberEatsについて配達員の目線で書いていこうと思います。よろしければお付き合いのほどよろしくお願いいたします。
 
 <br>
