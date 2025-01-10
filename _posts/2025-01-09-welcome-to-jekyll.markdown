@@ -2,7 +2,7 @@
 layout: post
 title:  【UberEats】商品が届かないのは何故か？ 報酬削減が引き起こした連鎖反応
 description: "【UberEats】商品が届かないのは何故か？ 報酬削減が引き起こした連鎖反応"
-twitter_description: "UberEats】商品が届かないのは何故か？ 報酬削減が引き起こした連鎖反応"
+twitter_description: "【UberEats】商品が届かないのは何故か？ 報酬削減が引き起こした連鎖反応"
 date:   2025-01-09 01:27:29 +0900
 categories: jekyll update
 twitter_image: "/assets/images/uber-bag.jpg"
