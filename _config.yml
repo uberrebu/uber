@@ -22,7 +22,7 @@ title: Uber Eats Blog
 email: your-email@example.com
 description:  UberEatsについて記録したサイト
 baseurl: "/uber" # the subpath of your site, e.g. /blog
-url: "https://uberrebu.github.io/uber/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://uberrebu.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: "@Uber79566978061"
 twitter_image: "/assets/images/default-card.jpg"
 github_username:  uber
