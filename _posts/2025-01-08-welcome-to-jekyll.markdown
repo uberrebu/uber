@@ -4,7 +4,6 @@ title:  【UberEats】商品が届かないのは何故か？ 報酬削減が引
 description: "【UberEats】商品が届かないのは何故か？ 報酬削減が引き起こした連鎖反応"
 date:   2025-01-08 12:27:29 +0900
 categories: blog
-twitter_image: "/assets/images/uber-card.jpg"
 ---
 
 こんにちは。現在東京都内でUberEatsの配達をしています。配達歴は２年になります。今回2024~2025年に起きた年末年始のUberEatsについて配達員の目線で書いていこうと思います。よろしければお付き合いのほどよろしくお願いいたします。
