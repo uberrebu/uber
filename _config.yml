@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Uber Eats Blog
+title: ウーバー配達員のBlog
 email: your-email@example.com
 description: "UberEatsの配達や最新ニュースについて記録したブログ。配達員視点の情報を発信中。"
 
@@ -31,6 +31,7 @@ github_username:  uber
 theme: minima
 plugins:
   - jekyll-feed
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
